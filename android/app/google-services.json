@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1002114453230",
+    "project_id": "inigma-5744a",
+    "storage_bucket": "inigma-5744a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002114453230:android:936d9945753e3982a92dff",
+        "android_client_info": {
+          "package_name": "com.company.socio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002114453230-cftd3j4cff1hl628r1ararmk60oj1883.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_8pxxaGwWOGn_O-8nVbBV0qXRSSqjs68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002114453230-cftd3j4cff1hl628r1ararmk60oj1883.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

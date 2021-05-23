@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Firebase" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e885d1d-48dd-46ff-80a2-cb8d0ddb3f5a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/adhd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/generic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/r.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/rating.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/review.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ybeld.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/review.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/review2.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/homesceen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/homesceen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/qrcode.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/qrcode.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_3a_API_27]" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rNaTjkzpzNEirNN7aZ7xoFC2d3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bansa\AndroidStudioProjects\socio\assets" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e885d1d-48dd-46ff-80a2-cb8d0ddb3f5a" name="Default Changelist" comment="" />
+      <created>1618819012128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618819012128</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1182" height="544" key="AVDManager" timestamp="1617030509697">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="AVDManager/0.0.1366.728@0.0.1366.728" timestamp="1617030509697" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1616904362408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1616904362408" />
+    <state width="1323" height="271" key="GridCell.Tab.0.bottom" timestamp="1621762196490">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="271" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1621762196490" />
+    <state width="1323" height="271" key="GridCell.Tab.0.center" timestamp="1621762196489">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="271" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1621762196489" />
+    <state width="1323" height="271" key="GridCell.Tab.0.left" timestamp="1621762196488">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="271" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1621762196488" />
+    <state width="1323" height="271" key="GridCell.Tab.0.right" timestamp="1621762196489">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="271" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1621762196489" />
+    <state x="804" y="312" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1621756274661">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="804" y="312" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.728@0.0.1366.728" timestamp="1621756274661" />
+  </component>
+</project>
